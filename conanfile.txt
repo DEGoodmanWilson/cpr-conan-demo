@@ -1,8 +1,5 @@
 [requires]
-cpr/1.2.0@cpr/testing
-
-[options]
-cpr:build_cpr_tests=True
+cpr/1.2.0@local/testing
 
 [generators]
 cmake
